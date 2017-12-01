@@ -1,0 +1,10 @@
+/Users/supanattechasothon/Documents/Programing Project/Web/C#/Web/commercial-ch3/bin/Debug/netcoreapp2.0/commercial-ch3.deps.json
+/Users/supanattechasothon/Documents/Programing Project/Web/C#/Web/commercial-ch3/bin/Debug/netcoreapp2.0/commercial-ch3.runtimeconfig.json
+/Users/supanattechasothon/Documents/Programing Project/Web/C#/Web/commercial-ch3/bin/Debug/netcoreapp2.0/commercial-ch3.runtimeconfig.dev.json
+/Users/supanattechasothon/Documents/Programing Project/Web/C#/Web/commercial-ch3/bin/Debug/netcoreapp2.0/commercial-ch3.dll
+/Users/supanattechasothon/Documents/Programing Project/Web/C#/Web/commercial-ch3/bin/Debug/netcoreapp2.0/commercial-ch3.pdb
+/Users/supanattechasothon/Documents/Programing Project/Web/C#/Web/commercial-ch3/obj/Debug/netcoreapp2.0/commercial-ch3.csproj.CoreCompileInputs.cache
+/Users/supanattechasothon/Documents/Programing Project/Web/C#/Web/commercial-ch3/obj/Debug/netcoreapp2.0/commercial-ch3.AssemblyInfoInputs.cache
+/Users/supanattechasothon/Documents/Programing Project/Web/C#/Web/commercial-ch3/obj/Debug/netcoreapp2.0/commercial-ch3.AssemblyInfo.cs
+/Users/supanattechasothon/Documents/Programing Project/Web/C#/Web/commercial-ch3/obj/Debug/netcoreapp2.0/commercial-ch3.dll
+/Users/supanattechasothon/Documents/Programing Project/Web/C#/Web/commercial-ch3/obj/Debug/netcoreapp2.0/commercial-ch3.pdb
