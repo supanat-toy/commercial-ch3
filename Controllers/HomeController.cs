@@ -5,10 +5,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using commercial_ch3.Models;
+using commercial_ch3.Functions;
 
 namespace commercial_ch3.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : DataHelper
     {
         public IActionResult Index()
         {
